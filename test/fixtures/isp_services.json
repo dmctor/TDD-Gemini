@@ -1,0 +1,4 @@
+[
+  {"id": 10, "isp_id": 1, "provider_id": 1, "description": "Enlace dedicado 100 Mbps", "cost": 120.00, "pay_code": "PC-0001"},
+  {"id": 11, "isp_id": 2, "provider_id": 1, "description": "Enlace de respaldo 50 Mbps", "cost": 80.00, "pay_code": "PC-0002"}
+]

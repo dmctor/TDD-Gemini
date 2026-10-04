@@ -1,0 +1,8 @@
+[
+  {"id": 1, "invoice_number": "E001-000586", "service_type": "Proveedor", "service_id": 1, "invoice_month": 3, "invoiced": false, "issue_date": "2025-03-01T00:00:00.000Z", "due_date": "2025-03-31T00:00:00.000Z"},
+  {"id": 2, "invoice_number": "E001-000587", "service_type": "Proveedor", "service_id": 2, "invoice_month": 3, "invoiced": false, "issue_date": "2025-03-15T00:00:00.000Z", "due_date": "2025-03-31T00:00:00.000Z"},
+  {"id": 3, "invoice_number": "E001-000588", "service_type": "Proveedor", "service_id": 3, "invoice_month": 3, "invoiced": true, "issue_date": "2025-03-31T00:00:00.000Z", "due_date": "2025-04-15T00:00:00.000Z"},
+  {"id": 4, "invoice_number": "F001-00008976", "service_type": "ISP", "service_id": 10, "invoice_month": 3, "invoiced": false, "issue_date": "2025-03-05T00:00:00.000Z", "due_date": "2025-03-31T00:00:00.000Z"},
+  {"id": 5, "invoice_number": "F001-00008977", "service_type": "ISP", "service_id": 11, "invoice_month": 3, "invoiced": false, "issue_date": "2025-03-20T00:00:00.000Z", "due_date": "2025-04-05T00:00:00.000Z"},
+  {"id": 6, "invoice_number": "E001-000599", "service_type": "Proveedor", "service_id": 99, "invoice_month": 3, "invoiced": false, "issue_date": "2025-03-10T00:00:00.000Z", "due_date": "2025-03-31T00:00:00.000Z"}
+]

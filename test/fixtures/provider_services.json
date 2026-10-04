@@ -1,0 +1,5 @@
+[
+  {"id": 1, "dependency_id": 1, "provider_id": 1, "description": "Instalacion de fibra optica", "price": 100.00},
+  {"id": 2, "dependency_id": 1, "provider_id": 1, "description": "Mantenimiento de red", "price": 250.50},
+  {"id": 3, "dependency_id": 2, "provider_id": 1, "description": "Soporte tecnico mensual", "price": 49.50}
+]
